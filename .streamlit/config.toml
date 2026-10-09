@@ -1,0 +1,9 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = false
+runOnSave = false
+
+[theme]
+primaryColor = "#0b6e99"
