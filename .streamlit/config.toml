@@ -1,9 +1,9 @@
-[browser]
-gatherUsageStats = false
+   [browser]
+   gatherUsageStats = false
 
-[server]
-headless = false
-runOnSave = false
+   [server]
+   headless = true
+   runOnSave = false
 
-[theme]
-primaryColor = "#0b6e99"
+   [theme]
+   primaryColor = "#0b6e99"
